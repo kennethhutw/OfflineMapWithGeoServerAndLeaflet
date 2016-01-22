@@ -128,6 +128,7 @@ Select “Workspace” on left menu
 Click “Add new workspace”
 
 點擊 “Add new workspace”
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444164-3350845856_n.jpg?v=1453444188) 
 
 Type in the Name and Namespace URL
