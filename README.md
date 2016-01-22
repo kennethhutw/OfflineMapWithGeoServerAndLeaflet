@@ -21,8 +21,11 @@ Download : http://geoserver.org/download/
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444155-2788016593.jpg?v=1453444188)  
 
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444155-3125528326.jpg?v=1453444188)
+
 這裡你可以修改安裝的目錄路徑 (You can change the install location. I used to install in programs folder. )
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444155-3031607983.jpg?v=1453444188) 
+
 
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444158-3381596712.jpg?v=1453444188) 
 
@@ -79,6 +82,7 @@ GeoServer
 ---
 
 Start --> All apps --> Start GeoServer
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444161-2430810137_n.jpg?v=1453444188)
 
 A window will pop up, Please wait for that it done.This window cannot be closed
@@ -101,6 +105,7 @@ It will redirect to GeoServer Web Admin Page and login into admin page. If you d
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444163-2806110753_n.jpg?v=1453444188) 
 
 Admin page: 
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444163-3875264559_n.jpg?v=1453444188)
 
 Add layer
@@ -142,11 +147,13 @@ Click “Add new Store”
 在左選單上選"Store "
 
 點擊 “Add new Store”
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444164-883913942_n.jpg?v=1453444188)
 
 Click “GeoTIFF”
 
 點擊 “GeoTIFF”
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444165-4072299155_n.jpg?v=1453444188) 
 
 Fill up the Basic Store Info and then click “Save” button
@@ -182,6 +189,7 @@ VIEW LAYER 檢視圖層
 Select “Layer Preview” on the left menu and click "OpenLayers"
 
 左選單上選 “Layer Preview” and 點擊 "OpenLayers"
+
 ![alt tag](https://pic.pimg.tw/kenneth2011/1453444166-873751073_n.jpg?v=1453444188)
 
 A window will pop up 
